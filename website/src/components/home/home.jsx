@@ -273,7 +273,7 @@ const CallToAction = () => {
           <img
             src="/api/placeholder/1920/600"
             alt="Construction background"
-            className="w-full h-full object-cover mix-blend-overlay opacity-20"
+            className="w-full h-full object-cover mix-blend-overlay opacity-40"
           />
         </div>
         <div className="absolute inset-0 bg-gradient-to-r from-black/30 to-transparent" />
