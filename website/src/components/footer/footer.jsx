@@ -43,6 +43,15 @@ const Footer = () => {
                   <Phone className="w-4 h-4" />
                   <span className="text-gray-400">+ 48 602 872 899</span>
                 </div>
+
+                <div className="flex items-center space-x-2">
+                  <Phone className="w-4 h-4" />
+                  <span className="text-gray-400">+263 77 378 0144</span>
+                            </div>
+                            <div className="flex items-center space-x-2">
+                  <Phone className="w-4 h-4" />
+                  <span className="text-gray-400">+263 77 100 8329</span>
+                </div>
                 <div className="flex items-center space-x-2">
                   <Mail className="w-4 h-4" />
                   <span className="text-gray-400">info@freshcoat.co.zw</span>
