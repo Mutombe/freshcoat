@@ -8,22 +8,22 @@ const TilingService = () => {
     {
       title: "Luxury Bathroom Renovation",
       description: "Custom marble tile installation with intricate patterns",
-      image: "/bathroom.webp",
+      image: "/bath1.jpeg",
       duration: "3 weeks",
       status: "Completed",
     },
     {
       title: "Modern Kitchen Backsplash",
       description: "Contemporary geometric tile design with LED lighting",
-      image: "/kitchen.webp",
+      image: "/kit1.jpeg",
       duration: "1 week",
       status: "Completed",
     },
     {
-      title: "Commercial Lobby Floor",
+      title: "Modern Lounge Renovation",
       description:
         "Large-format porcelain tile installation with custom inlays",
-      image: "/commercial.webp",
+      image: "/mordendining.jpeg",
       duration: "2 weeks",
       status: "Completed",
     },

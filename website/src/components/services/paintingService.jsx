@@ -9,7 +9,7 @@ const PaintingService = () => {
       title: "Modern Minimalist Home",
       description:
         "Complete interior and exterior painting with a modern gray palette",
-      image: "/minimalist.jpg",
+      image: "/paint.jpeg",
       duration: "2 weeks",
       status: "Completed",
     },
@@ -25,7 +25,7 @@ const PaintingService = () => {
       title: "Corporate Office Complex",
       description:
         "Multi-floor commercial painting project with custom branding",
-      image: "/coperate.webp",
+      image: "/paint2.jpeg",
       duration: "4 weeks",
       status: "Completed",
     },

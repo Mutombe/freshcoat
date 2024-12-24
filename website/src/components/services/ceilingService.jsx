@@ -22,7 +22,7 @@ const CeilingService = () => {
     {
       title: "Decorative Molding Project",
       description: "Victorian-style ceiling restoration with custom moldings",
-      image: "/moudling.jpg",
+      image: "/ceiling5.jpeg",
       duration: "4 weeks",
       status: "Completed",
     },
