@@ -2,7 +2,7 @@ import { CheckCircle, Phone, Calendar, ArrowRight } from "lucide-react";
 import { ProjectCard } from "./card";
 import { useNavigate } from "react-router-dom";
 const CeilingService = () => {
-    const navigate  = useNavigate();
+  const navigate = useNavigate();
   const projects = [
     {
       title: "Custom Coffered Ceiling",
@@ -98,13 +98,16 @@ const CeilingService = () => {
               <div className="space-y-4">
                 <div className="flex items-center gap-2">
                   <Phone className="w-5 h-5 text-red-600" />
-                  <span>(555) 123-4567</span>
+                  <span>+263 77 100 8329</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Calendar className="w-5 h-5 text-red-600" />
                   <span>Available Mon-Sat, 8am-6pm</span>
                 </div>
-                <button className="w-full bg-red-600 text-white py-3 rounded-lg font-semibold hover:bg-red-700 transition-colors" onClick={() => navigate("/contact")}>
+                <button
+                  className="w-full bg-red-600 text-white py-3 rounded-lg font-semibold hover:bg-red-700 transition-colors"
+                  onClick={() => navigate("/contact")}
+                >
                   Request Quote
                 </button>
               </div>

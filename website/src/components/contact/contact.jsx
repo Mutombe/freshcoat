@@ -98,7 +98,7 @@ const Contact = () => {
                 </div>
                 <div className="flex items-center space-x-4">
                   <Mail className="w-6 h-6 text-red-600" />
-                  <span>info@freshcoat.com</span>
+                  <span>thefreshcoatofficial@gmail.com</span>
                 </div>
                 <div className="flex items-center space-x-4">
                   <MapPin className="w-6 h-6 text-red-600" />
